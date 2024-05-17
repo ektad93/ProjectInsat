@@ -1,0 +1,6 @@
+@ProjectInsat_HostAddress = http://localhost:5008
+
+GET {{ProjectInsat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
